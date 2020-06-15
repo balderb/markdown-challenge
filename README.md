@@ -8,6 +8,7 @@ _"be the change you want to see in the world"_
 
 
 | Birthday           | 19/03/1993    |
+| -------------      | ------------- |
 | favorite color     | Blue          |
 | favorite food      | Gnocchi       |
 | pineapple on pizza | yes           |
