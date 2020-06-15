@@ -8,7 +8,7 @@ _"be the change you want to see in the world"_
 
 | Question           | Answer    
 | -------------      | ------------- 
-| :calender: Birthday:          | March 19, 1993
+| Birthday:          | March 19, 1993
 | :white_circle: Favorite color:| Blue          
 | :for_and_knife: favorite food:| Gnocchi!!    
 |:pizza:Pineapple on pizza:     | <ul><li>[x] No, thanks</li><li>[ ] Yes</li></ul>
