@@ -21,7 +21,7 @@ _"Be the change you want to see out there"_
 - Basketball
 - Kitesurfing
 
-#### you can always count on me when in doubt about some code or program! Let's look at it together! 
+#### You can always count on me when in doubt about some code or program! Let's look at it together! 
 
 I'm an enthusastic and empathic co-worker who's always in for a challenge! 
 
