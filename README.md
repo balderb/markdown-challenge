@@ -15,10 +15,10 @@ _"be the change you want to see in the world"_
 
 ### Hobbies
 
-- climbing 
+1. climbing 
 ⋅⋅*(indoor and outdoor)
-- Basketball
-- Kitesurfing
+2. Basketball
+3. Kitesurfing
 
 
 
