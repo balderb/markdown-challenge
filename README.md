@@ -15,8 +15,8 @@ _"be the change you want to see in the world"_
 
 ### Hobbies
 
-1. climbing 
-⋅⋅1. indoor and outdoor
+1. Climbing 
+..* indoor and outdoor
 2. Basketball
 3. Kitesurfing
 
