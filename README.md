@@ -15,9 +15,9 @@ _"be the change you want to see in the world"_
 
 ### Hobbies
 
-1. Climbing 
-2. Basketball
-3. Kitesurfing
+** Climbing
+** Basketball
+ ** Kitesurfing
 
 #### you can always count on me when in doubt about some code or program!
 
