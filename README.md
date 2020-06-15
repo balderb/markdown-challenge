@@ -1,6 +1,6 @@
 # Balder Bongaerts
 
-_"Be the change you want to see in the world"_
+_"Be the change you want to see out there"_
 
 <img src="https://github.com/balderb/markdown-challenge/blob/master/screenshot.png" alt="Hi there" width="350"/>
 
@@ -34,6 +34,7 @@ When i was in the 4th grade we were supposed to do homework in group once. It wa
 when my homework flew away
 
 << [previous Alejandro](https://github.com/AlejandroPerdomoCuello/markdown-challenge.git) || Balder Bongaerts ||[next Bas](https://github.com/basmahieu/markdown-challenge/blob/master/README.md) >>
+
 
 
 
