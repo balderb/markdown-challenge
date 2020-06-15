@@ -11,7 +11,7 @@ _"be the change you want to see in the world"_
 | Birthday          | March 19, 1993
 | Favorite color| Blue          
 | favorite food| Gnocchi!!    
-| Pineapple on pizza     | <ul><li>[x] No, thanks</li><li>[ ] Yes</li></ul>
+| Pineapple on pizza     | <ul><li>[x] I prefer not!</li><li>[ ] Yes</li></ul>
 
 ### Hobbies
 
