@@ -11,10 +11,14 @@ _"be the change you want to see in the world"_
 | -------------      | ------------- |
 | favorite color     | Blue          |
 | favorite food      | Gnocchi       |
-| pineapple on pizza | yes           |
+| pineapple on pizza | no            |
 
+### Hobbies
 
+- climbing (indoor and outdoor)
+- Basketball
+- Kitesurfing
 
-extra 
+ 
 
 
