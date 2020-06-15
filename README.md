@@ -23,7 +23,7 @@ _"Be the change you want to see out there"_
 
 #### you can always count on me when in doubt about some code or program! Let's look at it together! 
 
-I'm an enthusastic and empathic co-worker who's always in for a challange! 
+I'm an enthusastic and empathic co-worker who's always in for a challenge! 
 
 #### Here is a funny story
 
