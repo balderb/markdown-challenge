@@ -1,6 +1,6 @@
 # Balder Bongaerts
 
-_"Be the change you want to see out theree"_
+_"Be the change you want to see out there"_
 
 <img src="https://github.com/balderb/markdown-challenge/blob/master/screenshot.png" alt="Hi there" width="350"/>
 
