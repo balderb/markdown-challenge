@@ -19,6 +19,8 @@ _"Be the change you want to see out there"_
 	- Indoor and outdoor
 - Basketball
 - Kitesurfing & sailing
+-music
+	- Piano and guitar 
 - Hanging out with friends and family 
 
 #### You can always count on me when in doubt about some code or program! Let's look at it together! 
