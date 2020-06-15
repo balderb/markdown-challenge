@@ -1,10 +1,16 @@
 # Balder Bongaerts
 
-_inspirational quote: be the change you want to see in the world_
+_be the change you want to see in the world_
+
+![alt text](https://github.com/balderb/markdown-challenge/blob/master/screenshot.png "Hi there!")
+
+
+
+
 
 picture
 
-## academic researcher, passionate about science and technology
+## Academic researcher, passionate about science and technology
 
 Birthday: 19/03
 Favorite color: Blue
