@@ -4,7 +4,7 @@ _"Be the change you want to see in the world"_
 
 ![alt text](https://github.com/balderb/markdown-challenge/blob/master/screenshot.png "Hi there!")
 
-<img src="https://github.com/balderb/markdown-challenge/blob/master/screenshot.png" alt="Hi there" width="150"/>
+<img src="https://github.com/balderb/markdown-challenge/blob/master/screenshot.png" alt="Hi there" width="350"/>
 
 
 ## Junior developer, passionate about science and technology!
