@@ -19,7 +19,7 @@ _"Be the change you want to see out there"_
 	- Indoor and outdoor
 - Basketball
 - Kitesurfing & sailing
--music
+- music
 	- Piano and guitar 
 - Hanging out with friends and family 
 
