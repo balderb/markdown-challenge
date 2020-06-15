@@ -4,13 +4,13 @@ _"be the change you want to see in the world"_
 
 ![alt text](https://github.com/balderb/markdown-challenge/blob/master/screenshot.png "Hi there!")
 
-## Me in one sentence: junior developer, passionate about science and technology!
+## junior developer, passionate about science and technology!
 
 | Birthday           | 19/03/1993    |
 | -------------      | ------------- |
 | favorite color     | Blue          |
 | favorite food      | Gnocchi       |
-| pineapple on pizza | yes -[x] no -[] |
+| pineapple on pizza | yes - [x] no - [ ]|
 
 ### Hobbies
 
