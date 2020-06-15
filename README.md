@@ -18,8 +18,8 @@ _"Be the change you want to see out there"_
 - Climbing
 	- Indoor and outdoor
 - Basketball
-- Kitesurfing & sailing
-- music
+- Kitesurfing & Sailing
+- Music
 	- Piano and guitar 
 - Hanging out with friends and family 
 
