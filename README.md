@@ -10,7 +10,7 @@ _"be the change you want to see in the world"_
 | -------------      | ------------- |
 | favorite color     | Blue          |
 | favorite food      | Gnocchi       |
-| pineapple on pizza | yes[x] no[]   |
+| pineapple on pizza | yes -[x] no -[] |
 
 ### Hobbies
 
