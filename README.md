@@ -16,6 +16,7 @@ _"be the change you want to see in the world"_
 ### Hobbies
 
 - Climbing
+	- indoor and outdoor
 - Basketball
 - Kitesurfing
 
