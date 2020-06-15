@@ -33,7 +33,7 @@ When i was in the 4th grade we were supposed to do homework in group once. It wa
 
 when my homework flew away
 
-<<name || Balder Bongaerts || name>>
+<< [previous](https://github.com/AlejandroPerdomoCuello/markdown-challenge.git)[next](https://github.com/basmahieu/markdown-challenge/blob/master/README.md) >>
 
 
 
