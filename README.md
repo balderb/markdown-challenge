@@ -5,13 +5,13 @@ _"Be the change you want to see out there"_
 <img src="https://github.com/balderb/markdown-challenge/blob/master/screenshot.png" alt="Hi there" width="350"/>
 
 
-## Junior developer, passionate about science and technology!
+## Academic researcher, junior developer, passionate about science and technology!
 
 | Question           | Answer    
 | -------------      | ------------- 
 | Birthday          | March 19, 1993
 | Favorite color| Blue          
-| favorite food| Gnocchi    
+| Favorite food| Gnocchi    
 | Pineapple on pizza     | <ul><li>[x] I prefer not!</li><li>[ ] Yes</li></ul>
 
 ### Hobbies
