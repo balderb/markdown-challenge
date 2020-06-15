@@ -7,16 +7,12 @@ _"be the change you want to see in the world"_
 ## Academic researcher, passionate about science and technology
 
 
-| Birthday      | 19/03/1993    |
-| ------------- |:-------------:|
-| favorite color| Blue          |
-| favorite food | centered      |
-| zebra stripes | are neat      |
+| Birthday           | 19/03/1993    |
+| favorite color     | Blue          |
+| favorite food      | Gnocchi       |
+| pineapple on pizza | yes           |
 
-Birthday: 19/03
-Favorite color: Blue
-Favorite food: Gnocchi
-Pinneapple on pizza:
+
 
 extra 
 
